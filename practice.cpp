@@ -1,21 +1,38 @@
-#include<iostream>
-using namespace std;
+// #include<iostream>
+// #include<vector>
 
-int main(){
+// using namespace std;
+
+// int main(){
+
+//     vector<int> v;
+//     int n;
+
+//     for (int i = 0; i < 5; i++)
+//     {
+//         int element;
+//         cin>>element;
+//         v.push_back(element);
+//     }
+
+//     cout<<"Enter value of n : ";
+//     cin>>n;
+
+//     int count = 0;
+
+//     for (int i = 0; i <= 4; i++)
+//     {
+//         if (v[i] == n)
+//         {
+//             count++;
+//         }
+        
+//     }
+
+//     cout<<count;
     
-    int arr[] = {2,3,7,9};
-    int arr1[4], ans;
-
-    for (int i = 0; i < 4; i++)
-    {
-        ans = arr[i] * arr[i];
-        arr1[i] = ans;
-    }
-
-    for (int i = 0; i < 4; i++)
-    {
-        cout<<arr1[i]<<" ";
-    }
     
-    return 0;
-}
+//     return 0;
+// }
+
+
